@@ -1,0 +1,10 @@
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\bin\Debug\BT01_TruyXuatDuLieu.exe.config
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\bin\Debug\BT01_TruyXuatDuLieu.exe
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\bin\Debug\BT01_TruyXuatDuLieu.pdb
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\obj\Debug\BT01_TruyXuatDuLieu.csproj.AssemblyReference.cache
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\obj\Debug\BT01_TruyXuatDuLieu.Form1.resources
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\obj\Debug\BT01_TruyXuatDuLieu.Properties.Resources.resources
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\obj\Debug\BT01_TruyXuatDuLieu.csproj.GenerateResource.cache
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\obj\Debug\BT01_TruyXuatDuLieu.csproj.CoreCompileInputs.cache
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\obj\Debug\BT01_TruyXuatDuLieu.exe
+D:\SQL_Server_Windows\chuong_2\BT01_TruyXuatDuLieu\obj\Debug\BT01_TruyXuatDuLieu.pdb
